@@ -1,2 +1,2 @@
-# IV File Viewer
-File Viewer for Windows 
+# IV File Manager
+File Manager for Windows 
