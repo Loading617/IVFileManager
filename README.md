@@ -1,2 +1,2 @@
 # IVFileViewer
-Windows File Viewer
+File Viewer for Windows 
